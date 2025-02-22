@@ -37,5 +37,5 @@ Simply **copy an MCQ**, and Ansir will display the correct answer to the questio
 - **Hotkey support** for toggling clipboard monitoring.  
 - **More AI models** for better accuracy.  
 
-📌 **Developed with ❤️ by [godzaryan]**  
-🔗 **[https://github.com/godzaryan/ansir]**  
+📌 **Developed with ❤️ by godzaryan**  
+🔗 **https://github.com/godzaryan/ansir**  
